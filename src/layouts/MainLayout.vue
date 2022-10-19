@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Todo App
+          Todo App With Quasar
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
