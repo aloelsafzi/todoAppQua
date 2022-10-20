@@ -11,7 +11,7 @@
           </template>
 
           <template v-slot:hint>
-            Ketikan Todo kamu di input ini ya... ok
+            Ketikan Todo kamu di input ini ya... ok Deployed
           </template>
         </q-input>
       </div>
