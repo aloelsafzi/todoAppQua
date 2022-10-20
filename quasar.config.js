@@ -55,6 +55,8 @@ module.exports = configure((ctx) => ({
     // transpile: false,
     // publicPath: '/',
 
+    distDir: ctx.mode.spa ? 'public' : null,
+
     // Add dependencies for transpiling with Babel (Array of string/regex)
     // (from node_modules, which are by default not transpiled).
     // Applies only if "transpile" is set to true.
