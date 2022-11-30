@@ -1,3 +1,3 @@
 <template>
-  <h1>Haloe Portofolio</h1>
+  <h1>Haloe Portofolio Aloel</h1>
 </template>
